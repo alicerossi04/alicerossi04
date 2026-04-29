@@ -2,9 +2,6 @@
 Dal 2024 ho iniziato il mio percorso nel mondo dello sviluppo software. Sto imparando le basi della programmazione e approfondendo linguaggi come JavaScript, Python e Java.<br><br>I miei obiettivi principali sono sviluppare competenze pratiche e teoriche nello sviluppo di applicazioni e software e acquisire una maggiore esperienza in questo campo per avere la possibilità in futuro di lavorare nel settore IT.<br><br>Sono entusiasta di immergermi in questa nuova realtà, con l'obiettivo di condividere esperienze e apprendere dai professionisti del settore. Sono motivata a creare connessioni significative che mi aiutino a crescere e a prepararmi per entrare con determinazione nel mondo del lavoro
 
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alice-rossi040304) 
-
 # Tech Stack:
 
 ## Programming languages
