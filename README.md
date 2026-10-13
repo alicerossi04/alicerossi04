@@ -1,5 +1,7 @@
 # About Me:
-Dal 2024 ho iniziato il mio percorso nel mondo dello sviluppo software. Sto imparando le basi della programmazione e approfondendo linguaggi come JavaScript, Python e Java.<br><br>I miei obiettivi principali sono sviluppare competenze pratiche e teoriche nello sviluppo di applicazioni e software e acquisire una maggiore esperienza in questo campo per avere la possibilità in futuro di lavorare nel settore IT.<br><br>Sono entusiasta di immergermi in questa nuova realtà, con l'obiettivo di condividere esperienze e apprendere dai professionisti del settore. Sono motivata a creare connessioni significative che mi aiutino a crescere e a prepararmi per entrare con determinazione nel mondo del lavoro
+I started my software development journey in 2024, and I'm building both practical and theoretical skills in creating applications and software. I'm especially passionate about design and crafting cool UI experiences, where code meets creativity.
+
+My goal is to keep exploring, gain real experience in the field, and build software that is not only functional but stands out.
 
 
 # Tech Stack:
